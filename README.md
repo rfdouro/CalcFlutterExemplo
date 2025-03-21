@@ -4,7 +4,7 @@ Projeto de exemplo com Flutter.
 
 ## Descrição
 
-Projeto que produz uma calculadora simple.
+Projeto que produz uma calculadora simples.
 
 Conteúdos sobre Flutter:
 
